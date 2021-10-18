@@ -287,6 +287,32 @@ a:hover {
     font-size: 32px;
 }
 
+
+/* MODIFICATIONS */
+.explications {
+    font-size: 22px;
+    padding: 0 200px 0 200px;
+}
+
+#bloc-2-services .citation {
+        font-size: 20px;
+        padding: 0 200px 0 200px;
+        font-style: italic;
+}
+
+#bloc-2-services .auteur {
+    font-size: 15px;
+    padding: 0 200px 0 200px;
+}
+
+.img-responsive {
+    width: 100%;
+    object-fit: cover;
+    min-height: 270px;
+}
+
+/* MODIFICATIONS */
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
