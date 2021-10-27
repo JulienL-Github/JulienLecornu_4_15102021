@@ -289,27 +289,35 @@ a:hover {
 
 
 /* MODIFICATIONS */
-.explications {
-    font-size: 22px;
-    padding: 0 200px 0 200px;
-}
-
-#bloc-2-services .citation {
-        font-size: 20px;
+    .explications {
+        font-size: 22px;
         padding: 0 200px 0 200px;
-        font-style: italic;
-}
+    }
 
-#bloc-2-services .auteur {
-    font-size: 15px;
-    padding: 0 200px 0 200px;
-}
+    #bloc-2-services .citation {
+            font-size: 20px;
+            padding: 0 200px 0 200px;
+            font-style: italic;
+    }
 
-.img-responsive {
-    width: 100%;
-    object-fit: cover;
-    min-height: 270px;
-}
+    #bloc-2-services .auteur {
+        font-size: 15px;
+        padding: 0 200px 0 200px;
+    }
+
+    .img-responsive {
+        width: 100%;
+        object-fit: cover;
+        min-height: 270px;
+    }
+
+    #bloc-8 p {
+        color: black !important;
+    }
+
+    #bloc-6 p {
+        color: black !important;
+    }
 
 /* MODIFICATIONS */
 
@@ -801,17 +809,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white {
